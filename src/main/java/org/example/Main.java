@@ -7,4 +7,9 @@ public class Main {
         System.out.println("Hello world for first Commit");
         System.out.println("Second Sysout statement");
     }
+
+    public String greetMessage(){
+
+        return "Welcome to JAVA";
+    }
 }
